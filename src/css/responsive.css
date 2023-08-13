@@ -1,0 +1,113 @@
+@media (max-width: 412px){
+    .painel{
+        padding: 50px;
+        display: block;
+    }
+    .painel a{
+        text-align: center;
+    }
+    .painel .logo{
+        height: 80px;
+        display: block;
+        position: relative;
+        margin: 0 AUTO;
+    }
+    .painel nav{
+        float: none;
+        text-align: center;
+    }
+    .painel-1{
+        height: 250px;
+    }
+    .secao-com-texto img{
+        height: 200px;
+        width: 200px;
+    }
+    .secao-com-texto h2{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .secao-com-texto p{
+        font-size: 20px;
+    }
+    .painel-2 div{
+        float: none;
+    }
+    .painel-2 .grande{
+        width: 50%;
+        height: 300px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        border-radius: 10px;
+    }
+    .painel-2 .pequeno-goku-na-nuvem{
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        border-radius: 10px;
+    
+    }
+    .painel-2 .goku-camehameha{
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        border-radius: 10px;
+    }
+    .painel-2 .goku-grande{
+        width: 50%;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+    .contato{
+        height: 300px;
+    }
+    .contato div{
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: orange;
+        padding: 30px;
+        width: 50%;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+    .contato h2{
+        position: relative;
+       text-align: center;
+       left: 5%;
+       color: black;
+       font-size: 25px;  
+     }
+     .contato p{
+        left: 15%;
+        width: 100%;
+        color: black;
+        font-size: 15px;
+        
+     }
+     .rodape .logo{
+        height: 80px;
+        display: block;
+        position: relative;
+        margin: 0 AUTO;
+     }
+     .rodape nav{
+        float: none;
+        display: block;
+     }
+     .rodape ul li {
+        position: relative;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+     }
+     .copyright{
+        width: 70%;
+        text-align: center;
+        margin: 0 auto;
+     }
+     .copyright a{
+        color: white;
+     }
+}
