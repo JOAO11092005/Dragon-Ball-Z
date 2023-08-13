@@ -108,6 +108,11 @@ body{
   background-size: cover;
   position: relative;
 }
+.contato div{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
 .contato h2{
     position: relative;
     font-size: 28px;
