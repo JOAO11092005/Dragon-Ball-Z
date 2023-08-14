@@ -1,0 +1,172 @@
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+    color: black;
+    
+}
+.painel{
+    padding: 30px 25px;
+     background-color: orange;
+     
+}
+.painel .logo{
+      height: 100px;
+}
+
+.painel nav{
+    float: right;
+    margin-top: 30px;
+}
+.painel ul li{
+    display: inline-block;
+    padding: 25px;
+
+}
+.painel ul li a:hover{
+   
+    color: white;
+}
+.painel-1 img{
+   text-align: center;
+   height: 500px;
+   position: relative;
+   left: 50%;
+   transform: translateX(-50%);
+   border-radius: 10px;
+   
+  
+}
+.secao-com-texto{
+    text-align: center;
+    padding: 30px;
+}
+.secao-com-texto img{
+    width: 270px;
+}
+.secao-com-texto h2{
+    font-size: 48px;
+    font-weight: 600px;
+}
+.secao-com-texto p{
+    font-size: 18px;
+}
+.secao-com-texto.onde-estamos p{
+    font-size: 28px;
+}
+.painel-2 div{
+    
+}
+.painel-2 .grande img{
+    width: 50%;
+    height: 600px;
+}
+.painel-2 .pequeno-goku-na-nuvem img{
+    width: 25%;
+    height: 300px;
+}
+.painel-2 .goku-camehameha img{
+    width: 25%;
+    height: 300px;
+}
+.painel-2 .goku-grande img{
+    height: 300px;
+    width: 50%;
+}
+
+
+/* testando o painel 2 */
+.painel-1{
+    background: url(../img/goku\ sorindo.jpeg) center center no-repeat;
+    height: 600px;
+    background-size: cover;
+   
+}
+.painel-2 div{
+    float: left;
+}
+.painel-2 .grande{
+    background: url(../img/Son\ Goku\ \(DB\).jpeg) center center no-repeat;
+    width: 50%;
+    height: 600px;
+}
+.painel-2 .pequeno-goku-na-nuvem{
+    background: url(../img/goku\ na\ nuvem.gif) center center no-repeat;
+    width:25%;
+    height: 300px;
+}
+.painel-2 .goku-camehameha {
+    background: url(../img/goku\ pequeno\ com\ camehameha.gif) center center no-repeat;
+    width: 25%;
+    height: 300px;
+}
+.painel-2 .goku-grande{
+    background: url(../img/Wallpaper\ HD\ Kid\ Goku\ -\ Live\ Wallpaper\ HD.jpeg) center center no-repeat;
+    height: 300px;
+    width: 50%;
+}
+.contato{
+  background: url(../img/Dragon\ Ball\ Z\ Gohan\ GIF\ -\ Dragon\ Ball\ Z\ Gohan\ Saiyaman\ -\ Discover\ &\ Share\ GIFs.gif) center center no-repeat;
+  height: 600px;
+  background-size: cover;
+  position: relative;
+}
+.contato div{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.contato h2{
+    position: relative;
+    font-size: 28px;
+    top: 50%;
+    left: 70%;
+
+    color: white;
+}
+.contato p{
+    color: white;
+    position: relative;
+    font-size: 18px;
+    width: 400px;
+    top: 50%;
+    left: 70%;
+}
+.contato a{
+    color: white;
+}
+.contato a:hover{
+    color: orange;
+}
+.rodape{
+    background-color: orange;
+    padding: 11px;
+    text-decoration: none;
+    color: white;
+}
+.rodape .logo{
+    height: 100px;
+}
+.rodape nav{
+    float: right;
+    margin-top: 30px;
+}
+.rodape ul li{
+    display: inline-block;
+    padding: 25px;
+}
+.rodape ul li a:hover{
+    color: white;
+    
+}
+.rodape .copyright{
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+   
+}
+.rodape .copyright a{
+    color: black;
+}
+.rodape .copyright a:hover{
+    color: white;
+}
